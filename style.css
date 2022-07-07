@@ -158,10 +158,9 @@
   margin-top: 5%;
 }
 
-.email{
+.input{
   text-align: center;
   margin-bottom: 15px;
-  color: white;
   background-color: rgb(red, green, blue);
   text-decoration: none;
   padding: 10px;
