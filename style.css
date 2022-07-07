@@ -1,0 +1,177 @@
+.background{
+  background-image: url("/Corona.jpg");
+  
+  background-size:cover;
+  width:auto;
+  height:500px;
+}
+.par{
+   text-align: center;
+    ;
+}
+
+.first-text{
+  position:absolute;
+  top:200px;
+  left:780px;
+  color:red;
+   
+}
+.second-text{
+  position: absolute;
+  top: 240px;
+  left:800px;
+  color:red;
+}
+.third-text{
+  position:absolute;
+  top:290px;
+  left:650px;
+  color:red;
+}
+.fourth-text{
+  position:absolute;
+  top:310px;
+  left:750px;
+  color:red;
+}
+.link-button{
+  position:absolute;
+  top:400px;
+  left: 900px;
+  color:blue;
+  font-weight: 700;
+  border-radius: 60px;
+  text-decoration:none;
+  background-image: linear-gradient(orange,tomato);
+
+}
+.XYZ{
+  text-align: center;
+  font-size: xx-large
+
+}
+ .ABC{
+  text-align: center;
+ }
+ .DEF{
+  text-align: center;
+ }
+ 
+.button{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+  
+}
+.border{
+  border:5px;
+  padding: 10x;
+  background-color: red;
+}
+.Taka{
+  text-align: center;
+}
+.link-button1{
+  position:absolute;
+  justify-content: center;
+  align-items: center;
+  color:red;
+  font-weight: 700;
+  margin-top: 40px;
+  font-size: xx-large;
+  left:850px;
+  border-radius: 60px;
+  text-decoration:none;
+  background-image: linear-gradient(orange,tomato);
+}
+
+.donate{
+  text-align: center;
+  margin-top: 150px;
+  font-size: xx-large;
+}
+.abc{
+  text-align: center;
+  font-size: x-large;
+}
+.def{
+  text-align: center;
+  font-size: x-large;
+}
+
+.division{
+  
+  display: flex;
+  border-radius: 5px;
+  width:90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 5px;
+  box-shadow: 10px 10px 50px red; 
+
+}
+.top-banner{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+  margin-left: 5%;
+  display: flex;
+  margin-top:5%;
+}
+.dream-big{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+  display: flex;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.half-width{
+  width:50%;
+}
+.link-button2{
+  position:absolute;
+  
+  color:red;
+  font-weight: 700;
+  margin-top: 200px;
+  font-size: xx-large;
+  left:100px;
+  text-decoration:none;
+  background-image: linear-gradient(orange,tomato);
+
+}
+.link-button3{
+  position:absolute;
+  
+  color:red;
+  font-weight: 700;
+  margin-top: 200px;
+  font-size: xx-large;
+  right:600px;
+  text-decoration:none;
+  background-image: linear-gradient(orange,tomato);
+
+}
+.update{
+  text-align: center;
+  margin-top: 5%;
+}
+
+.email{
+  text-align: center;
+  margin-bottom: 15px;
+  color: white;
+  background-color: rgb(red, green, blue);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 500px;
+  
+}
+
+footer{
+     text-align: center;
+     font-style:italic; ;
+  
+}
